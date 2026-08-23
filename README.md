@@ -38,13 +38,13 @@ identify.
 With this script the destination becomes:
 
     Backup/
-    ├── Julia_Home_Backup/
-    ├── Foton/
+    ├── Jane_Home_Backup/
+    ├── Photo/
     ├── Video_Backup/
-    ├── Musik/
-    ├── Elin_homefolder/
-    ├── Wares/
-    └── Homeassistant/
+    ├── Music/
+    ├── Lisa_homefolder/
+    ├── Software/
+    └── Logging_folder/
 
 Each Backup Planner job gets its own directory.
 
