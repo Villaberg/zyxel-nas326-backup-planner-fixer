@@ -1,4 +1,3 @@
-# zyxel-nas326-backup-planner-fixer
 # Zyxel NAS326 Backup Planner – Automatic Target Path Fixer
 
 Automatically organizes Zyxel NAS326 Backup Planner destinations by adding
